@@ -51,6 +51,7 @@ transition: 0.2s;
 /*Navbar Starts */
 .navbar {
     display: flex;
+    background-color: white;
 }
 
 .navbar a {
